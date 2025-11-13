@@ -84,8 +84,6 @@
 
 # \- 🔗 LinkedIn: https://www.linkedin.com/in/jingen-chen-39b3582ba/
 
-# \- 🐦 Twitter: \[@chenjingen](https://twitter.com/chenjingen)
-
 # 
 
 # ---
@@ -93,5 +91,6 @@
 # 
 
 # > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
 
 
